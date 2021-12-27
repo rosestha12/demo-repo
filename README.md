@@ -1,2 +1,2 @@
 # Demo
-New repository
+New repository!
